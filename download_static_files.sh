@@ -1,3 +1,5 @@
+#!/bin/bash
+
 dlHttpFiles() {
   mkdir -p /RackHD/on-http/static/http/common
   dir=/RackHD/on-http/static/http/common
